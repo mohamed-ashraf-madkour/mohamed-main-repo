@@ -28,11 +28,6 @@
 - Git & GitHub  
 -----------------------------------------------------------------
 
-## 📈 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=MohamedAshrafMadkour&show_icons=true)
-
------------------------------------------------------------------
-
 ## 🎯 Goals
 - Become a professional Data Analyst  
 - Master Power BI & Advanced SQL  
