@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Ashraf
+# 👋 Hi, I'm Mohamed Ashraf Madkour
 
 📊 Data Analyst | Turning Data into Insights | Egypt 🇪🇬
 
